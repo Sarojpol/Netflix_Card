@@ -1,0 +1,37 @@
+.card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+img{
+    width: 100%;
+}
+.card-content{
+    padding: 3.2rem 1.6rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+
+}
+.card-heading{
+    margin-bottom: 5.2rem;
+    text-align: center;
+    color:#c4162d;
+    TEXT-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.super_hit{
+    background-color: #7dcea0;
+}
+.average{
+    background-color: #f7dc6f;
+}
+
+.rating {
+    padding: 0.5rem 0.8rem;
+    color: black;
+    margin-left: 1.2rem;
+    border-radius: 10%;
+    --wekit-border-radius: 100rem;
+    --moz-border-radius: 100rem;
+    --ms-border-radius: 100rem;
+    --o-border-redius:100rem;
+} 
